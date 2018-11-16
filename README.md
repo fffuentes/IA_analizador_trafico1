@@ -57,14 +57,14 @@ ___
 
 # Instalación
 
-Para el correcto funcinamiento sera necesario instalar lo siguiente
+1. Para el correcto funcinamiento sera necesario instalar lo siguiente
+ 
+  - Python 3.6.4
+  - OpenCV
 
-Python 3.6.4
-OpenCV
 
-
-modulos a instalar via pip
-- Package             Version
+2. modulos a instalar via pip
+  - Package             Version
 ------------------- ----------
 absl-py             0.6.1
 aiohttp             3.4.4
