@@ -48,6 +48,13 @@ Ruta :  vehicle_counting_tensorflow / vehicle_detection_main.py
   <img src="https://user-images.githubusercontent.com/22610163/48481757-b1d5a900-e81f-11e8-824b-4317115fe5b4.png">
 </p>
 
+# Requerimientos
+
+- pc con Procesadores Intel® Core™ i5
+- 8 Gb de memoria RAM
+- 80 Gb de espacio en el disco 
+___
+
 # Instalación
 
 Para el correcto funcinamiento sera necesario instalar lo siguiente
@@ -153,6 +160,11 @@ widgetsnbextension  3.4.2
 yarl                1.2.6
 
 ___
+# ejecucion
+
+- al tener instalado todos los programas y modulos de python 
+ir a la ubicacion de la carpeta del proyecto y ejecutar el archivo ***vehicle_detection_main.py***
+
 
 # cita
 - author = "Ahmet Özlü",
