@@ -4,6 +4,7 @@ ___
 ##### Centro universitario Retalhuleu
 ##### Curso de INTELIGENCIA ARTIFICIAL
 ##### Catedrático ing. Jorge salvador santos
+- [video explicativo](https://youtu.be/PcM-Q-x4iVA)
 ___
 
 # Introducción
