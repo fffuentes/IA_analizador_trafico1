@@ -166,10 +166,24 @@ ___
 - al tener instalado todos los programas y modulos de python 
 ir a la ubicacion de la carpeta del proyecto y ejecutar el archivo ***vehicle_detection_main.py***
 
-
+___
 # cita
 - author = "Ahmet Özlü",
 - title  = "Vehicle Detection, Tracking and Counting by TensorFlow",
 - year   = "2018",
 - url    = [https://github.com/ahmetozlu/vehicle_counting_tensorflow](https://github.com/ahmetozlu/vehicle_counting_tensorflow)
 
+___
+
+# Dockerisado
+## Para correr el proyecto a travez de docker lo que tienes que hacer es:
+1. instalar Docker for Windows
+2. Descargar el repositorio 
+3. dentro de la carpeta del proyecto (repositorio) crear una carpeta con el nombre "files" luego transferir todos los archivos a esta misma a exepcion de 3 archivos que son:
+  - docker-compose.yml
+  - Dockerfile
+  - jupyter_notebook_config.py
+4. Abrir una terminal y colocarte en la direccion de la carpeta del proyecto.
+5. Luego ejecutar el comando : ***"docker-compose up -d"***
+
+___
