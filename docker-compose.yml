@@ -3,7 +3,7 @@ services:
  jupyter:
   image: tf_pycar
   environment:
-    - PYTHONPATH = /notebooks/src
+    - PYTHONPATH = /notebooks
   container_name: jupyter_car
   build: .
   volumes:
